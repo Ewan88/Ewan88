@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋 I'm Ewan
+
+- 🔭 I’m currently working on my developer portfolio
+- 🌱 I’m currently learning Rust Bevy
+- 👯 I’m looking to collaborate on web development or game development
 
 <!--
 **Ewan88/Ewan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
