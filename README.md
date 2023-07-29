@@ -8,7 +8,7 @@
 ## My Skills
 [![My Skills](https://skills.thijs.gg/icons?i=ableton,bevy,css,js,react,redux,rust,ts,vite,vscode,vue)](https://skills.thijs.gg)
 
-![](https://komarev.com/ghpvc/?username=Ewan88)
+![](https://komarev.com/ghpvc/?username=Ewan88&color=blueviolet)
 
 <!--
 **Ewan88/Ewan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
