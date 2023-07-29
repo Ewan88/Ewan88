@@ -1,8 +1,13 @@
-### Hi 👋 I'm Ewan
+## Hi 👋 I'm Ewan
 
 - 🔭 I’m currently working on my developer portfolio
 - 🌱 I’m currently learning Rust Bevy
-- 👯 I’m looking to collaborate on web development or game development
+- 👯 I’m looking to collaborate on web development and/or game development
+
+
+## My Skills
+[![My Skills](https://skills.thijs.gg/icons?i=ableton,bevy,css,js,react,redux,rust,ts,vite,vscode,vue)](https://skills.thijs.gg)
+
 
 <!--
 **Ewan88/Ewan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
