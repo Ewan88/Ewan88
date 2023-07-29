@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on my developer portfolio
 - 🌱 I’m currently learning Rust Bevy
 - 👯 I’m looking to collaborate on web development and/or game development
+- ⚡ Fun fact: the goat in my profile picture is an Iberian Ibex
 
 
 ## My Skills
