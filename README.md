@@ -1,4 +1,4 @@
-## Hi 👋 I'm Ewan
+## Hi 👋 I'm Ewan, frontend developer
 
 - 🔭 I’m currently working on my developer portfolio
 - 🌱 I’m currently learning Rust Bevy
