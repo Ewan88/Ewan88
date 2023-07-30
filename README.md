@@ -1,16 +1,53 @@
-## Hi 👋 I'm Ewan, frontend developer
+<div style="color:#B5D2E0; background-color:#1E1E2D; padding:20px; font-family: monospace; text-align:center">
 
-![My Profile Views](https://komarev.com/ghpvc/?username=Ewan88&color=blueviolet)
+<h2>Ewan Bailey</h2>
 
-- 🔭 I’m currently working on my developer portfolio
-- 🌱 I’m currently learning Rust Bevy
-- 👯 I’m looking to collaborate on web development and/or game development
-- ⚡ Fun fact: the goat in my profile picture is an Iberian Ibex
+<br>
 
-## My Skills
-[![My Skills](https://skills.thijs.gg/icons?i=ableton,bevy,css,js,react,redux,rust,ts,vite,vscode,vue)](https://skills.thijs.gg)
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Game%20Developer;&#x1F49C%20Learning;&width=440&height=45&color=b4cfdd&v&pause=1000&size=22&center=true&font=monospace" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewan88&layout=compact&theme=radical&hide=ruby,java&langs_count=5&hide_border=true)
+<br>
+
+<p>I am a frontend developer with a passion for cultivating knowledge.</p>
+<p>I am currently building my portfolio whilst studying the Rust programming language.</p>
+<p>I am happy to contribute on web development and game development projects.</p>
+<br>
+<p><i>My profile picture is of an Iberian Ibex, spotted in Andalucia.</i></p>
+<br>
+
+<h2>My Skills</h2>
+<br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/JavaScript" title="JavaScript" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/>
+</a>
+<a href="https://www.typescriptlang.org/" title="TypeScript" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" title="HTML" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" title="CSS" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3"/>
+</a>
+<a href="https://react.dev/" title="React" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/react"/>
+</a>
+<a href="https://redux.js.org/" title="Redux" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/redux"/>
+</a>
+<a href="https://vuejs.org/" title="Vue" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/vue.js"/>
+</a>
+<a href="https://vitejs.dev/" title="Vite" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/vite"/>
+</a>
+<a href="https://www.rust-lang.org/" title="Rust" style="text-decoration:none">
+<img height="32" width="32" src="https://cdn.simpleicons.org/rust/orange"/>
+</a>
+
+<br>
 
 <!--
 **Ewan88/Ewan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
