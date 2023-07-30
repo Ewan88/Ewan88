@@ -1,17 +1,20 @@
-<h2>Ewan Bailey</h2>
-
+<h2 align=center>Ewan Bailey</h2>
+<br>
+<p align=center>
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Game%20Developer;&#x1F49C%20Learning;&width=440&height=45&color=b4cfdd&centered=true&pause=1000&size=22&font=sans" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Game%20Developer;&#x1F49C%20Learning;&width=400&height=50&center=true&pause=1000&size=22&color=597CA2" /></a>
+</p>
 
-<p>I am a frontend developer with a passion for cultivating knowledge.</p>
-<p>I am currently building my portfolio whilst studying the Rust programming language.</p>
-<p>I am happy to contribute on web development and game development projects.</p>
+<p align=center>I am a frontend developer with a passion for cultivating knowledge.</p>
+<p align=center>I am currently building my portfolio whilst studying the Rust programming language.</p>
+<p align=center>I am happy to contribute on web development and game development projects.</p>
 <br>
-<p><i>My profile picture is of an Iberian Ibex, spotted in Andalucia.</i></p>
+<p align=center><i>My profile picture is of an Iberian Ibex, spotted in Andalucia.</i></p>
 <br>
 
-<h2>My Skills</h2>
-
+<h2 align=center>My Skills</h2>
+<br>
+<p align=center>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/JavaScript" title="JavaScript" style="text-decoration:none">
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/>
 </a>
@@ -39,3 +42,4 @@
 <a href="https://www.rust-lang.org/" title="Rust" style="text-decoration:none">
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust/orange"/>
 </a>
+</p>
