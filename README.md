@@ -4,7 +4,7 @@
 <p align=center>I am experienced software engineer who is currently learning the Rust programming language.</p>
 <p align=center>I enjoy working with Vue.js and writing CSS</p>
 <br>
-<p align=center><i>My profile picture is an Iberian Ibexw which I spotted in Andalucia.</i></p>
+<p align=center><i>My profile picture is an Iberian Ibex.</i></p>
 <br>
 
 <h2 align=center>My Skills</h2>
