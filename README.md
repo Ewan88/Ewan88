@@ -18,5 +18,5 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/rust/orange"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/vue/#4FC08D"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/vuedotjs"/>
 </p>
