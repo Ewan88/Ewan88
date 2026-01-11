@@ -1,1 +1,1 @@
-Full-time professional who occasionaly works on personal projects
+Full-time QA engineer who occasionaly works on personal projects
